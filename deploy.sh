@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # push to github repo
-git push -f git@github.com:dansalias/movie-finder.git master:gh-pages
+git push -f https://github.com/dansalias/movie-finder.git master:gh-pages
 
 cd -
