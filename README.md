@@ -20,3 +20,7 @@ npm run build
 npm run lint
 ```
 
+### Deploys to GitHub pages
+```
+npm run deploy
+```
